@@ -2,7 +2,7 @@
 
 Hello Everyone! 👋
 
-I am **Soham Mandal**, a recent graduate of **IIT Kharagpur** from the **Deparrtment of Electrical Engineering**.
+I am **Soham Mandal**, a recent graduate of **IIT Kharagpur** from the **Department of Electrical Engineering**.
 
 This repository contains the materials, notes, assignments, implementations, and other resources I used during the course **Safety Fundamentals for Generative AI (CS60216)**.
 
